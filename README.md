@@ -6,6 +6,8 @@
 
 * Eureka Server - Open source service discovery server.
 
+![Alt desc](https://github.com/nj11/springcloud/blob/master/screenshots/nameserver.png)
+
 ![Alt desc](https://github.com/nj11/springcloud/blob/master/screenshots/eureka.png)
 
 
