@@ -5,6 +5,7 @@
 #### Spring cloud compnents:
 
 * Eureka Server - Open source service discovery server.
+<img src="./screenshot/eureka.png">
 
 * Microservices
   * Product Service
