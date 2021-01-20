@@ -1,5 +1,6 @@
 package com.springcloud.controllers;
 
+import com.netflix.hystrix.contrib.javanica.annotation.HystrixCommand;
 import com.springcloud.model.Product;
 import com.springcloud.repos.ProductRepo;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -22,7 +23,7 @@ public class ProductRestController {
 	@Autowired
 	private ProductRepo repo;
 
-	//@HystrixCommand(fallbackMethod = "sendErrorResponse")
+	@HystrixCommand(fallbackMethod = "sendErrorResponse")
 	@RequestMapping(value = "/products", method = RequestMethod.POST)
 	public Product create(@RequestBody Product product) {
 		Coupon coupon = couponClient.getCoupon(product.getCouponCode());
@@ -31,6 +32,12 @@ public class ProductRestController {
 
 	}
 
+	/**
+	 * Fault tolerant method when something foes wrong inside create method and it will be invoked
+	 * by Hysterix and respnse sent back to the client,
+	 * @param product
+	 * @return
+	 */
 	public Product sendErrorResponse(Product product) {
 		return product;
 
