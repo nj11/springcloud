@@ -21,6 +21,9 @@
     * API gateway as a single point of entry for all front end clients.
     
     * Zuul automatically gives us server side load balancing using Ribbon internally.
+    
+    * When invoking microservices from front end clients like Angular, invoke using this format 
+      ```https://<servername>:8765/microservice-name/uri```
 
 ![Alt desc](https://github.com/nj11/springcloud/blob/master/screenshots/zuul.png)
 
