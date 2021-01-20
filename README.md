@@ -39,7 +39,20 @@
    * Helps avoid hardcoding of URLs.
 
 
-
+* Hystrix
+  
+  * Used for fault tolerance.
+  
+  * Is integrated within the product service.If coupon service is down, then product service handles errors gracefully.
+  
+  
+  ![Alt desc](https://github.com/nj11/springcloud/blob/master/screenshots/hystrix1.png)
+  
+  
+  ![Alt desc](https://github.com/nj11/springcloud/blob/master/screenshots/hystrix2.png)
+  
+  
+  
 
 
 
