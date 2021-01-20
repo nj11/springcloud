@@ -8,8 +8,6 @@
 
 ![Alt desc](https://github.com/nj11/springcloud/blob/master/screenshots/nameserver.png)
 
-![Alt desc](https://github.com/nj11/springcloud/blob/master/screenshots/eureka.png)
-
 
 * Microservices
   * Product Service
