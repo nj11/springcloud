@@ -6,7 +6,7 @@
 
 * Eureka Server - Open source service discovery server.
 
-<img width=“964” src=“https://github.com/nj11/springcloud/blob/master/screenshots/eureka.png”>
+<img src=“https://github.com/nj11/springcloud/blob/master/screenshots/eureka.png”>
 
 
 * Microservices
