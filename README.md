@@ -52,8 +52,24 @@
   ![Alt desc](https://github.com/nj11/springcloud/blob/master/screenshots/hystrix2.png)
   
   
+  * Sleuth and Zipkin
+  
+         * Used for request tracking.
+         
+         * Zipkin provides a dashboard to view the trace of a http request.
   
 
+![Alt desc](https://github.com/nj11/springcloud/blob/master/screenshots/sleuthzipkin1.png)
+
+![Alt desc](https://github.com/nj11/springcloud/blob/master/screenshots/sleuthzipkin2.png)
+
+![Alt desc](https://github.com/nj11/springcloud/blob/master/screenshots/trace.png)
 
 
+* Config Server
+
+     * Used for centralized configuration management
+     
+     
+ ![Alt desc](https://github.com/nj11/springcloud/blob/master/screenshots/configserver.png)
 
