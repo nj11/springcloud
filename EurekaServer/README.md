@@ -88,8 +88,7 @@
   
   ![Alt desc](https://github.com/nj11/springcloud/blob/master/EurekaServer/screenshots/image22.png)
   
-  ![Alt desc](https://github.com/nj11/springcloud/blob/master/EurekaServer/screenshots/image23.png)
-  
+ 
   ![Alt desc](https://github.com/nj11/springcloud/blob/master/EurekaServer/screenshots/image24.png)
   
   ![Alt desc](https://github.com/nj11/springcloud/blob/master/EurekaServer/screenshots/image25.png)
