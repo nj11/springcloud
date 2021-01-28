@@ -1,3 +1,5 @@
+# Microservices with springcloud
+
 #### Steps for containerization of service.        
         
         1.Run docker
@@ -39,6 +41,55 @@
        ```docker push <dockerusername>/eurekaserver```
 
 
-#### Steps for deploying the docker image to an ECS cluster.
+## Steps for deploying the docker image to an ECS cluster.
 
+   ![Alt desc](https://github.com/nj11/springcloud/blob/master/screenshots/image1.png)
   
+  ![Alt desc](https://github.com/nj11/springcloud/blob/master/screenshots/image2.png)
+  
+  ![Alt desc](https://github.com/nj11/springcloud/blob/master/screenshots/image3.png)
+  
+  ![Alt desc](https://github.com/nj11/springcloud/blob/master/screenshots/image4.png)
+  
+  ![Alt desc](https://github.com/nj11/springcloud/blob/master/screenshots/image5.png)
+  
+  ![Alt desc](https://github.com/nj11/springcloud/blob/master/screenshots/image6.png)
+  
+  ![Alt desc](https://github.com/nj11/springcloud/blob/master/screenshots/image7.png)
+  
+  ![Alt desc](https://github.com/nj11/springcloud/blob/master/screenshots/image8.png)
+  
+  ![Alt desc](https://github.com/nj11/springcloud/blob/master/screenshots/image9.png)
+  
+  ![Alt desc](https://github.com/nj11/springcloud/blob/master/screenshots/image10.png)
+  
+  
+  ![Alt desc](https://github.com/nj11/springcloud/blob/master/screenshots/image11.png)
+  
+  ![Alt desc](https://github.com/nj11/springcloud/blob/master/screenshots/image12.png)
+  
+  ![Alt desc](https://github.com/nj11/springcloud/blob/master/screenshots/image13.png)
+  
+  ![Alt desc](https://github.com/nj11/springcloud/blob/master/screenshots/image14.png)
+  
+  ![Alt desc](https://github.com/nj11/springcloud/blob/master/screenshots/image15.png)
+  
+  ![Alt desc](https://github.com/nj11/springcloud/blob/master/screenshots/image16.png)
+  
+  ![Alt desc](https://github.com/nj11/springcloud/blob/master/screenshots/image17.png)
+  
+  ![Alt desc](https://github.com/nj11/springcloud/blob/master/screenshots/image18.png)
+  
+  ![Alt desc](https://github.com/nj11/springcloud/blob/master/screenshots/image19.png)
+  
+  ![Alt desc](https://github.com/nj11/springcloud/blob/master/screenshots/image20.png)
+  
+  ![Alt desc](https://github.com/nj11/springcloud/blob/master/screenshots/image21.png)
+  
+  ![Alt desc](https://github.com/nj11/springcloud/blob/master/screenshots/image22.png)
+  
+  ![Alt desc](https://github.com/nj11/springcloud/blob/master/screenshots/image23.png)
+  
+  ![Alt desc](https://github.com/nj11/springcloud/blob/master/screenshots/image24.png)
+  
+  ![Alt desc](https://github.com/nj11/springcloud/blob/master/screenshots/image25.png)
