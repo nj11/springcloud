@@ -1,4 +1,4 @@
-# Microservices with springcloud
+# Deployment of Eurekaservice on AWS ECS using Docker images 
 
 #### Steps for containerization of service.        
         
