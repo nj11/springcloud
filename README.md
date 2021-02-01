@@ -69,7 +69,8 @@
 * Config Server
 
      * Used for centralized configuration management
-     
-     
+     * Requires the installation and running of Rabbit MQ .
+     * Can refresh client properties for all microservice instances by using the actuator endpoint - http://localhost:9090/actuator/bus-refresh
+            
  ![Alt desc](https://github.com/nj11/springcloud/blob/master/screenshots/configserver.png)
 
